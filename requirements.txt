@@ -1,1 +1,10 @@
 streamlit
+pandas
+matplotlib
+openai
+numpy
+scikit-learn
+tslearn
+geopy
+cartopy
+folium
